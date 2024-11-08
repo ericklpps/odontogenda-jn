@@ -46,4 +46,5 @@ Gráficos: Visualização dos horários mais demandados, gerados com Matplotlib.
 **Integrantes**
 
 Erick Lopes Silva - RM 553927
+
 Gabriel Sá Bragança - RM 554064
